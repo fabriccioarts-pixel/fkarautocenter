@@ -1141,6 +1141,12 @@ h2 span {
     .hero-cta {
         flex-direction: column;
     }
+    .hero {
+        padding-top: 110px;
+        padding-bottom: 4rem;
+        height: auto;
+        min-height: 100vh;
+    }
     .services-list {
         grid-template-columns: 1fr;
     }
